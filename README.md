@@ -7,4 +7,6 @@ This template was retired in the course [B7WEB](https://lp.b7web.com.br/fullstac
 
 All credits in the page footer.
 
+Live preview: https://leafy-raindrop-d57850.netlify.app
+
 # Made by Victor Silva Antunes Rodrigues (LzK)
