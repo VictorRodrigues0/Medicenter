@@ -1,7 +1,7 @@
 
 # Medicenter Project
 
-**Tópicos / Topics**
+### Tópicos / Topics
 
 - [Sobre o Projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 - [Link da Aplicação](#link-da-aplicação) | [Applicaton Link](#application-link)
