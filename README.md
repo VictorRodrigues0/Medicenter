@@ -4,6 +4,8 @@
 - [Sobre o Projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 - [Link da Aplicação](#link-da-aplicação) | [Applicaton Link](#application-link)
 
+  <hr>
+
 ## Sobre o Projeto
 
 Este projeto foi criado para praticar minhas habilidades com HTML5 e CSS3 puro.
