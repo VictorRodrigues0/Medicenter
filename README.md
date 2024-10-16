@@ -4,7 +4,7 @@
 - [Sobre o Projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 - [Link da Aplicação](#link-da-aplicação) | [Applicaton Link](#application-link)
 
-  <hr>
+<hr>
 
 ## Sobre o Projeto
 
